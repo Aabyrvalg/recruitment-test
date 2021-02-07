@@ -19,7 +19,7 @@ The challenge consists of two parts:
 
 
 ## Coding Test
-The test is to create an App that allow a **Store Manager** to access the incoming orders, see the list of items to be picked, and change the status of an order.
+The test is to create an App that allow a **Store Manager** to access the incoming orders and see the list of items to be picked.
 
 The application should display these informations 
 

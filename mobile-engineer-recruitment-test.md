@@ -84,7 +84,7 @@ We believe this task shouldn't take more than **3 hours**, use your time wisely.
 - When I select an order
 - I can see the order detail
 - I can change the order status
-- I can print the picking list
+- I can see the picking list
 
 
 

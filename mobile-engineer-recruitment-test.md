@@ -41,7 +41,7 @@ The application should display these informations
   - `shelf_mapping`
   - `image_url`
 	
-The printed picking list should show
+The picking list should show
 - `order_display_id`
 - `created_at`
 - `store_name`

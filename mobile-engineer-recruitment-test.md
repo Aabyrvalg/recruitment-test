@@ -1,4 +1,4 @@
-Dija - Engineer Recruitment Test
+Dija - Mobile Engineer Recruitment Test
 ==================================
 
 Thank you for taking the time to do our technical test. 🙂

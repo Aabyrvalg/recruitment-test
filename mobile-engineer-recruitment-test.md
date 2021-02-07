@@ -14,7 +14,6 @@ The challenge consists of two parts:
 ## Disclaimer
 - Focus on what matters - for our recruitment process we want to focus on real use cases, rather than complex algorithms on a whiteboard.
 - Done is better than perfect - we'd rather that you have lightweight solution that ticks most of the boxes than a perfect solution for one of them.
-- People who can wear multiple hats - we won't always have a designer or product manager around so you might need to give it a go. Again, we don't expect perfection!
 - Readability over performance - the code we write now will probably be rewritten many times. Let's make that easy for the next person!
 
 

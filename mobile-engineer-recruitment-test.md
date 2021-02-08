@@ -11,7 +11,7 @@ The challenge consists of two parts:
 * A pairing session with a Dija engineer. We will add a small feature to your App
 
 
-### Disclaimer
+## Disclaimer
 - Focus on what matters - for our recruitment process we want to focus on real use cases, rather than complex algorithms on a whiteboard.
 - Done is better than perfect - we'd rather that you have lightweight solution that ticks most of the boxes than a perfect solution for one of them.
 - Readability over performance - the code we write now will probably be rewritten many times. Let's make that easy for the next person!
@@ -54,13 +54,13 @@ API sample responses
 - Order detail [GET /orders/1945](fixtures/order-1945.json), [GET /orders/1944](fixtures/order-1944.json), [GET /orders/1943](fixtures/order-1943.json)
 
 ### User Story
-- As a Store Manager
-- I can view the list of orders for a specific store
-- So that I know which one needs to be picked and prepared (to_pick)
-
-- When I select an order
-- I can see the order detail
-- I can see the list of items to be picked
+As a Store Manager\
+I can view the list of orders for a specific store\
+So that I know which one needs to be prepared (to_pick)\
+\
+When I select an order\
+I can view the order detail\
+So that I know which items need to be picked
 
 
 ### Architecture

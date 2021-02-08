@@ -68,7 +68,7 @@ The app needs to follow this sample design system
 
 
 ### Task requirements
-We believe this task shouldn't take more than a few huours, use your time wisely. ⏱
+We believe this task shouldn't take more than a few hours, use your time wisely. ⏱
 
 - Your code should compile and run in one step
 - Feel free to use whatever frameworks / libraries / packages you like

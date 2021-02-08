@@ -70,8 +70,8 @@ Feel free to use any architecture for the App. We will discuss your choice durin
 The App is an internal tool. So the design should be clean and functional. 🙂 
 
 The app needs to follow this sample design system 
-- [Figma](Design/design-system.fig)
-- [PDF](Design/design-system.pdf)
+- [Figma](design/design-system.fig)
+- [PDF](design/design-system.pdf)
 
 
 ### Task requirements

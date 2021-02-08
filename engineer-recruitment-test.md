@@ -18,21 +18,23 @@ The challenge consists of two parts:
 - Readability over performance - the code we write now will probably be rewritten many times. Let's make that easy for the next person!
 
 
-## Coding Test
-The test is to create a Web Application that allow a **Store Manager** to access the incoming orders, print the list of items to be picked, and change the status of an order.
+# Coding Test
+The test is to create a Web Application that allows a **Store Manager** to access the incoming orders, print the list of items to be picked, and change the status of an order.
 
-The application should display these informations 
+The application should display these information 
 
 **Orders in the list**
 - `order_display_id`
 - `created_at`
 - `store_name`
+- `number_of_items`
 - `status` (`to_pick`, `picking`, `packed`, `completed`, `cancelled`)
 
 **Order detail**
 - `order_display_id`
 - `created_at`
 - `store_name`
+- `delivery_notes`
 - `status`
 - `line_items`
   - `quantity`
@@ -45,7 +47,7 @@ The printed picking list should show
 - `order_display_id`
 - `created_at`
 - `store_name`
-- `status`
+- `status`\
 For each `line_items`
 `quantity`, `shelf_mapping` and `name`
 
@@ -53,6 +55,16 @@ For each `line_items`
 API sample responses
 - List orders [GET /orders](fixtures/orders-list.json)
 - Order detail [GET /orders/1945](fixtures/order-1945.json), [GET /orders/1944](fixtures/order-1944.json), [GET /orders/1943](fixtures/order-1943.json)
+
+### User Story
+As a Store Manager\
+I can view the list of orders for a specific store\
+So that I know which one needs to be prepared (to_pick)\
+\
+When I select an order\
+I can view the order detail\
+I can change the order status\
+I can print the picking list, so that I know which items need to be picked
 
 
 ### Platform Choice
@@ -67,30 +79,21 @@ Please make it look clean and minimal. 🙂
 ### Task requirements
 We believe this task shouldn't take more than **3 hours**, use your time wisely. ⏱
 
-Keep design as lower priority.
+Keep design as a lower priority.
 
-- Please complete the user story below
 - Your code should compile and run in one step
 - Feel free to use whatever frameworks / libraries / packages you like
 - You **must** include tests
 - Please avoid including artifacts from your local build; use a relevant `.gitignore`
 - Please write a short post to describe the features you built. Imagine you need to share this content with non-technical people in the company. Please add to `README.md` file
 
-### User Story
-- As a Store Manager
-- I can view the list of orders for as specific store
-- So that I know which one needs to be picked and prepared (to_pick)
 
-- When I select an order
-- I can see the order detail
-- I can change the order status
-- I can print the picking list
+# How to submit
+- Just clone this repository 🧑‍💻
+- Create a `README.md` file and add your instructions 📝
+- Share your private Github repository with `tech-users@dijanow.com`
 
-
-
-# How to Submit
-Just fork this private repository 🧑‍💻
-Create a `README.md` file and add your instructions 📝
+Or simply send us a zip file.
 
 
 #### Thanks for your time 🙏, we look forward to hearing from you! 🚀🚀

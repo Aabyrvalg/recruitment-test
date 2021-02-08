@@ -26,28 +26,21 @@ The application should display these information
 - `order_display_id`
 - `created_at`
 - `store_name`
+- `number_of_items`
 - `status` (`to_pick`, `picking`, `packed`, `completed`, `cancelled`)
 
 **Order detail**
 - `order_display_id`
 - `created_at`
 - `store_name`
-- `status`
-- `line_items`
-  - `quantity`
-  - `name`
-  - `barcode`
-  - `shelf_mapping`
-  - `image_url`
-	
-The picking list should show
-- `order_display_id`
-- `created_at`
-- `store_name`
+- `delivery_notes`
 - `status`
 For each `line_items`
-`quantity`, `shelf_mapping` and `name`
-
+  - `quantity`
+  - `shelf_mapping`
+  - `name`
+  - `image_url`
+	
 
 API sample responses
 - List orders [GET /orders](fixtures/orders-list.json)

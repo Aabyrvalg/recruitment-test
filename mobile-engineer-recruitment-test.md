@@ -76,12 +76,11 @@ We believe this task shouldn't take more than a few hours, use your time wisely.
 - Please avoid including artifacts from your local build; use a relevant `.gitignore`
 - Please write a short post to describe the features you built. Imagine you need to share this content with non-technical people in the company. Keep it very short and please add it to `README.md` file.
 
+## How to submit
 
-
-# How to submit
 - Just clone this repository 🧑‍💻
-- Create a `README.md` file and add your instructions 📝
-- Share your private Github repository with `tech-users@dijanow.com`
+- Add your instructions to a markdown file **Test.md** 📝
+- Share your private Github repository with tech-users@dijanow.com
 
 Or simply send us a zip file.
 

@@ -88,10 +88,11 @@ Keep design as a lower priority.
 - Please write a short post to describe the features you built. Imagine you need to share this content with non-technical people in the company. Please add to `README.md` file
 
 
-# How to submit
+## How to submit
+
 - Just clone this repository 🧑‍💻
-- Create a `README.md` file and add your instructions 📝
-- Share your private Github repository with `tech-users@dijanow.com`
+- Add your instructions to a markdown file **Test.md** 📝
+- Share your private Github repository with tech-users@dijanow.com
 
 Or simply send us a zip file.
 

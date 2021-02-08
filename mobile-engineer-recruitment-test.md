@@ -78,7 +78,7 @@ We believe this task shouldn't take more than **3 hours**, use your time wisely.
 
 
 
-# How to Submit
+# How to submit
 - Just clone this repository 🧑‍💻
 - Create a `README.md` file and add your instructions 📝
 - Share your private Github repository with `tech-users@dijanow.com`

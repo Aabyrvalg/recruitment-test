@@ -30,11 +30,11 @@ from [shopify documentation](https://shopify.dev/docs/admin-api/rest/reference/e
 ### User Story
 As a Store Manager\
 I want to know when a new order comes in from Shopify\
-So that I know when the store is busy\
+So that I know when the store is busy
 
 As a Store Manager\
 I want to have detailed information about items and delivery in the notification\
-So I can easily check that orders going out for delivery are correct\
+So I can easily check that orders going out for delivery are correct
 
 ### Platform Choice
 We favour Ruby but are happy to accept applications in any language.

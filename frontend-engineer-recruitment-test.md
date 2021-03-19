@@ -1,4 +1,4 @@
-Dija - Mobile Engineer Recruitment Test
+Dija - Frontend Engineer Recruitment Test
 ==================================
 
 Thank you for taking the time to do our technical test. 🙂
@@ -57,7 +57,7 @@ So that I know which items need to be picked
 
 
 ### Architecture
-Feel free to use any architecture for the App. We will discuss your choice during our pairing session.
+Feel free to use any architecture for the web app. We will discuss your choice during our pairing session.
 
 ### Design
 The web application needs to be responsive (desktop, tablet, smartphone).
@@ -74,7 +74,7 @@ We believe this task shouldn't take more than a few hours, use your time wisely.
 
 - Your code should compile and run in one step
 - Feel free to use whatever frameworks / libraries / packages you like
-- You **must** include tests
+- You should include tests
 - Please avoid including artifacts from your local build; use a relevant `.gitignore`
 - Please write a short post to describe the features you built. Imagine you need to share this content with non-technical people in the company. Keep it very short and please add it to `README.md` file.
 

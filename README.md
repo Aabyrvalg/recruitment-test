@@ -6,7 +6,7 @@ Please don't fork me. 🤓
 
 ### Tests
 - [Full-stack engineer](fullstack-engineer-recruitment-test.md)
-- [Frontend-stack engineer](frontend-engineer-recruitment-test.md)
+- [Frontend engineer](frontend-engineer-recruitment-test.md)
 - [Mobile engineer](mobile-engineer-recruitment-test.md)
 - [Backend engineer](backend-engineer-recruitment-test.md)
 

@@ -18,7 +18,7 @@ Please don't fork me. 🤓
 
 ☑ Check through the requirements
 ☑ Create a plan
-☐ Create the project stub
+☑ Create the project stub
     use a single app module for simplicity
 ☐ Implement the Model and Repository
     Retrofit + MockServer for HTTP
